@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Resto Tan</string>
+    <string name="harga">Rp 30.000</string>
+    <string name="keterangan">keterangan</string>
+    <string name="icon_star">icon star</string>
+    <string name="_4_4">4.4</string>
+    <string name="desc">Merupakan text view meletakkan deskripsi makanan</string>
+    <string name="list_mode">List Mode</string>
+    <string name="grid_mode">Grid Mode</string>
+
+    <string-array name="image">
+        <item>@drawable/dango</item>
+        <item>@drawable/gyoza</item>
+        <item>@drawable/miso_soup</item>
+        <item>@drawable/ramen</item>
+        <item>@drawable/sashimi</item>
+        <item>@drawable/sushi</item>
+        <item>@drawable/cheese_cake</item>
+        <item>@drawable/dorayaki</item>
+        <item>@drawable/ichigo_daifuku</item>
+        <item>@drawable/taiyaki</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Dango</item>
+        <item>Gyoza</item>
+        <item>Miso Soup</item>
+        <item>Ramen</item>
+        <item>Sashimi</item>
+        <item>Sushi</item>
+        <item>Cheese Cake</item>
+        <item>Dorayaki</item>
+        <item>Ichigo Daifuku</item>
+        <item>Taiyaki</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Kue Jepang berbentuk bulat seperti bola kecil</item>
+        <item>Gyoza adalah pangsit mini yang aslinya berasal dari Cina</item>
+        <item>Sup dari fermentasi kacang kedelai</item>
+        <item>Masakan mi kuah Jepang</item>
+        <item>Sashimi adalah ikan mentah</item>
+        <item>Terdiri dari nasi yang dibentuk</item>
+        <item>Cake yang terbuat dari bahan dasar keju</item>
+        <item>Golongan kue tradisional Jepang</item>
+        <item>Mochi dengan isian pasta kacang dan stroberi</item>
+        <item>Memiliki bentuk ikan dengan beragam isian</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>4.7</item>
+        <item>4.8</item>
+        <item>4.6</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>12000</item>
+        <item>10000</item>
+        <item>17500</item>
+        <item>23500</item>
+        <item>25000</item>
+        <item>13500</item>
+        <item>13500</item>
+        <item>23000</item>
+        <item>14500</item>
+        <item>15500</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>adalah kue Jepang berbentuk bulat seperti bola kecil, terbuat dari mochiko tepung beras dan dimatangkan dengan cara dikukus atau direbus di dalam air.</item>
+        <item>adalah salah satu jenis dumpling yang berisi daging cincang dan sayuran yang dicincang dan dibungkus lembaran tepung terigu. Adonan kulit dibuat dari campuran tepung terigu, air, dan garam dapur. </item>
+        <item>adalah masakan Jepang berupa sup dengan bahan dasar dashi ditambah isi sup berupa sedikit makanan laut atau sayur-sayuran, dan diberi miso sebagai perasa. Sup miso dinikmati dengan mengangkat mangkuk sup dan meminum kuahnya </item>
+        <item>adalah masakan mi kuah Jepang yang berasal dari Jepang dan Tiongkok. Orang Jepang juga menyebut ramen sebagai chuka soba (中華そば, soba dari Tiongkok) atau shina soba (支那そば) karena soba atau o-soba dalam bahasa Jepang sering juga berarti mi.</item>
+        <item>Sashimi (刺身) atau sasyimi adalah makanan Jepang berupa makanan laut dengan kesegaran prima yang langsung dimakan dalam keadaan mentah bersama penyedap seperti kecap asin, parutan jahe, dan wasabi.</item>
+        <item>Susyi[1] (Jepang: 鮨, 鮓, 寿司, すし; Romaji: sushi) adalah makanan Jepang yang terdiri dari nasi yang dibentuk bersama lauk (neta) berupa makanan laut, daging, sayuran mentah atau sudah dimasak.[2] Nasi susyi mempunyai rasa masam yang lembut karena dibumbui campuran cuka beras, garam, dan gula.</item>
+        <item>Cheesecake (bahasa Indonesia: "kue keju") adalah kue yang biasanya dimakan sebagai hidangan penutup, dibuat dengan mencampurkan keju yang bertekstur lembut, telur, susu, dan gula.[1][2][3] Keju yang umumnya digunakan untuk membuat cheesecake adalah keju krim, </item>
+        <item>Dorayaki (Jepang: どら焼き) adalah kue yang berasal dari Jepang. Dorayaki termasuk ke dalam golongan kue tradisional Jepang. Kue ini berbentuk bundar sedikit tembam</item>
+        <item>Daifuku (daifukumochi) merupakan makanan khas Jepang yang terbuat dari tepung Mochiko. Daifuku termasuk salah satu dari sekian banyak jenis Wagashi atau Mochi.</item>
+        <item>Taiyaki (Jepang: たい焼き) adalah kue tradisional Jepang berbentuk ikan. Bagian atas kue dipanggang terpisah dengan bagian bawah kue. Setelah kue hampir matang, keduanya disatukan dengan selai kacang merah</item>
+
+    </string-array>
+</resources>

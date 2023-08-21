@@ -86,4 +86,8 @@
         <item>Taiyaki (Jepang: たい焼き) adalah kue tradisional Jepang berbentuk ikan. Bagian atas kue dipanggang terpisah dengan bagian bawah kue. Setelah kue hampir matang, keduanya disatukan dengan selai kacang merah</item>
 
     </string-array>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
